@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siolla.app.dev",
+    "sha256_cert_fingerprints":
+    ["56:FE:C8:2A:38:A4:9D:EF:2E:A5:2D:9A:BC:CE:34:D2:B6:57:C7:98:F8:7D:A4:F4:F7:D5:85:2F:88:45:5D:DA"]
+  }
+}]
