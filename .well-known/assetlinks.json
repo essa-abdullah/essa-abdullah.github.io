@@ -1,32 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.siolla.app.dev",
-      "sha256_cert_fingerprints": [
-        "A9:83:30:46:8B:50:4B:04:D2:E1:5B:8F:72:B6:A3:32:43:05:10:51:7D:B7:E4:14:8C:DF:E2:13:E1:FC:E9:64"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.siolla.app.staging",
-      "sha256_cert_fingerprints": [
-        "53:EB:47:86:74:2C:D1:6B:3A:9F:ED:50:7F:87:5B:A8:38:E9:BA:52:B8:9F:7E:20:A0:EE:38:0C:67:87:D8:6B"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.siolla.app",
-      "sha256_cert_fingerprints": [
-        "53:EB:47:86:74:2C:D1:6B:3A:9F:ED:50:7F:87:5B:A8:38:E9:BA:52:B8:9F:7E:20:A0:EE:38:0C:67:87:D8:6B"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siolla.app.dev",
+    "sha256_cert_fingerprints":
+    ["A9:83:30:46:8B:50:4B:04:D2:E1:5B:8F:72:B6:A3:32:43:05:10:51:7D:B7:E4:14:8C:DF:E2:13:E1:FC:E9:64"]
   }
-]
+}]
