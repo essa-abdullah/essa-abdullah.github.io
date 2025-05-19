@@ -8,22 +8,15 @@
           "HA47HP86P4.com.siolla.app.staging",
           "HA47HP86P4.com.siolla.app"
         ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
+        "paths": ["*"]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-          "HA47HP86P4.com.siolla.app.dev",
-          "HA47HP86P4.com.siolla.app.staging",
-          "HA47HP86P4.com.siolla.app"
+      "HA47HP86P4.com.siolla.app.dev",
+      "HA47HP86P4.com.siolla.app.staging",
+      "HA47HP86P4.com.siolla.app"
     ]
   }
 }
