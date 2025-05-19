@@ -4,7 +4,9 @@
     "details": [
       {
         "appIDs": [
-          "HA47HP86P4.com.siolla.app.dev"
+          "HA47HP86P4.com.siolla.app.dev",
+          "HA47HP86P4.com.siolla.app.staging",
+          "HA47HP86P4.com.siolla.app"
         ],
         "paths": [
           "*"
@@ -19,7 +21,9 @@
   },
   "webcredentials": {
     "apps": [
-      "HA47HP86P4.com.siolla.app.dev"
+          "HA47HP86P4.com.siolla.app.dev",
+          "HA47HP86P4.com.siolla.app.staging",
+          "HA47HP86P4.com.siolla.app"
     ]
   }
 }
