@@ -1,0 +1,4 @@
+<Files "apple-app-site-association">
+  AddType application/json .json .default
+  ForceType application/json
+</Files>
